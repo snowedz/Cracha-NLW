@@ -5,7 +5,7 @@ function changeName() {
 changeName()
 
 const linksSocialMedia ={
-  youtube: "UCnmW-GaxTIe2Y1Zup5etHFQ",
+  youtube: "/channel/UCnmW-GaxTIe2Y1Zup5etHFQ",
   facebook: "snowedz",
   instagram: "snowedz",
   twitter: "tylensnow",
